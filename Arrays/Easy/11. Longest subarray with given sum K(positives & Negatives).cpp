@@ -1,3 +1,15 @@
+/*
+Longest subarray with sum K (Positives + Negatives)
+Given an array containing N integers and an integer K.,
+Your task is to find the length of the longest Sub-Array with the sum of the elements equal to the given value K.
+
+Input : A[] = {10, 5, 2, 7, 1, 9} 
+K = 15
+Output : 4 
+Explanation: The sub-array is
+{5, 2, 7, 1}.
+*/
+
 int lenOfLongSubarr(int A[],  int N, int K) 
     { 
         // Complete the function
