@@ -27,4 +27,4 @@ int upperBound(vector<int> &arr, int x, int n){
 		}
 	}	
 	return s;
-}3. 
+} 
